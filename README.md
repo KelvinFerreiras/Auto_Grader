@@ -68,7 +68,7 @@ Breaking its name down by underscores, form left to right, its components are:
 1) Type of assignment
 2) Number of assignment
 3) Student's NetID
-4) Number of assignment
+4) Number of attempt
 5) Date and Time of submission
 6) Name of directory zipped into the file
 
